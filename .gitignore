@@ -1,0 +1,57 @@
+# ============================================================
+# .gitignore — Projet Vision par Ordinateur (Reconnaissance d'émotions)
+# ============================================================
+
+# --- Environnement virtuel Python ---
+env/
+venv/
+.venv/
+ENV/
+
+# --- Modèle entraîné (fichier lourd — utiliser Git LFS ou héberger séparément) ---
+# Décommentez la ligne ci-dessous si vous ne souhaitez PAS inclure le modèle
+# *.keras
+# *.h5
+
+# --- Dataset FER-2013 (ne jamais committer le dataset) ---
+fer2013/
+data/
+datasets/
+
+# --- Vidéos (fichiers binaires lourds) ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# --- Fichiers Python compilés ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Logs TensorFlow ---
+logs/
+*.log
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Variables d'environnement / secrets ---
+.env
+*.env
+
+# --- Fichiers temporaires ---
+*.tmp
+*.bak
