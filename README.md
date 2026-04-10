@@ -5,9 +5,16 @@
 
 ## Démonstration
 
-| 😢 Tristesse détectée | 😊 Joie détectée | 😨 Peur détectée | 😡 Colère détectée |
-|:---:|:---:|:---:|:---:|
-| ![Triste](screenshots/capture_20260410_132823.png) | ![Joie](screenshots/capture_20260410_132844.png) | ![Peur](screenshots/capture_20260410_132949.png) | ![Colere](screenshots/capture_20260410_133042.png) |
+<table>
+  <tr>
+    <td align="center"><b>😢 Tristesse — 68.8%</b><br><img src="screenshots/capture_20260410_132823.png" width="340"/></td>
+    <td align="center"><b>😊 Joie — 21.6%</b><br><img src="screenshots/capture_20260410_132844.png" width="340"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>😨 Peur — 43.6%</b><br><img src="screenshots/capture_20260410_132949.png" width="340"/></td>
+    <td align="center"><b>😡 Colère — 61.4%</b><br><img src="screenshots/capture_20260410_133042.png" width="340"/></td>
+  </tr>
+</table>
 
 > Détection en temps réel via webcam avec panneau de probabilités pour les 7 émotions.
 
