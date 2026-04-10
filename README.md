@@ -7,11 +7,11 @@
 
 | 😢 **Tristesse — 68.8%** | 😊 **Joie — 21.6%** |
 |:---:|:---:|
-| ![Tristesse](screenshots/capture_20260410_132823.png) | ![Joie](screenshots/capture_20260410_132844.png) |
+| ![Tristesse](https://raw.githubusercontent.com/STEPHANIE3004/DeepEmotion-Vision/main/screenshots/capture_20260410_132823.png) | ![Joie](https://raw.githubusercontent.com/STEPHANIE3004/DeepEmotion-Vision/main/screenshots/capture_20260410_132844.png) |
 
 | 😨 **Peur — 43.6%** | 😡 **Colère — 61.4%** |
 |:---:|:---:|
-| ![Peur](screenshots/capture_20260410_132949.png) | ![Colère](screenshots/capture_20260410_133042.png) |
+| ![Peur](https://raw.githubusercontent.com/STEPHANIE3004/DeepEmotion-Vision/main/screenshots/capture_20260410_132949.png) | ![Colère](https://raw.githubusercontent.com/STEPHANIE3004/DeepEmotion-Vision/main/screenshots/capture_20260410_133042.png) |
 
 > Détection en temps réel via webcam avec panneau de probabilités pour les 7 émotions.
 
